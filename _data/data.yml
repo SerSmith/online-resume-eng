@@ -1,31 +1,40 @@
 basic:
-  name: Foo Bar
-  title: Backend Developer
+  name: Сергей Кузнецов
+  title: Data Scientist
   avatar:
-    display: true
+    display: False
     path: profile.png
 
 contact:
-  email: me@example.com
-  phone: +86-111-2222-3333
+  email: sergeysmith1995@ya.ru
+  phone: +79263768700
   wechat:
   whatsapp:
   telegram:
-  website: example.com
+  website: 
   medium:
   linkedin:
   googlescholar:
   researchgate:
-  github: github
+  github: https://github.com/SerSmith
   gitlab:
   bitbucket:
-  twitter: twitter
+  twitter: 
   stackoverflow:
   quora:
   goodreads:
 
+languages:
+    display: true
+    title: Languages
+    items:
+        - idiom: Russian
+          level: Native
+        - idiom: English
+          level: Upper-Intermediate
+
 profile:
-  display: true
+  display: False
   title: Profile
   details: |
     It's your career profile, you can wirte markdown format text.
@@ -36,95 +45,104 @@ profile:
 
 experiences:
   display: true
-  title: Experiences
+  title: Опыт
   items:
-    - role: Backend Developer
-      time: 2018.03 - 2019.03
-      company: Second Company
+    - role: Data Scientist
+      time: 2019.12 - present
+      company: Sibur Digital
       tag:
-      location: Beijing
       details: |
-        Experience in this company:
-        + First
-        + Second
+       Участие в проектах по повышению эффективности производства. Помощь продакт оунеру в генерации идей по разывитию продукта. Реализация прототипов на питоне. Менторинг.
 
-        ...
 
-    - role: Backend Developer
-      time: 2017.03 - 2018.03
-      company: First Company
-      tag: Remote, part-time
-      location: Beijing
+    - role: Consultant
+      time: 2015.12 - 2019.12
+      company: SAS Institute LLC
+      tag:
       details: |
-        Experience in this company:
-        + First
-        + Second
+        Участие в пресейл пилотах и проектах отдела углубленной аналитики с уклоном в оптмиизацию и прогнозирование временных рядов. Менторинг стажеров.
 
-        ...
+
+    - role: Лаборант
+      time: 2016.02 - 2016.12
+      company: Научно-учебная лаборатория «Исследование проблем информации и экономического роста», НИУ ВШЭ 
+      tag:
+      details: |
+        Разработка методов прогнозирования таблиц "затраты-выпуск"
+
 
 projects:
   display: true
-  title: Projects
+  title: Рабочие проекты
   intro: |
-    This is all the projects I'm involved in.
+    Интересные для упоминания задачи(не исчерпывающий список задач.
 
   items:
-    - name: Foo
-      link: https://www.google.com
+    - name: Лидогенерация
       details: |
-        Project Foo's detail, you can write markdown format text.
+        +Написание прототипа на питон(библиотека)
+        +Разработка алгоритма мэтчинга названий компаний
+        +Разработка алгоритма поска ключевых фраз
+        +Генерация идей по виденью продукта
+        +Менторинг джуниор DS
 
-    - name: Bar
-      link:
+    - name: Автоматическое построение расписания
       details: |
-        Project Bar's detail, you can write markdown format text.
+        +Сбор бизнес требований
+        +Коммуникация с заказчиком
+        +Проектирование отчетности
+        +Написание оптимизации
+        +Продумывание ФЭО
+        +Менторинг стажеров
+
+    - name: Цифровой двойник предприятия
+      details: |
+        +Разбор предметной области
+        +Участие в написании ТЗ
+        +Продумывание, реализация и внедрение метода прогнозирования добычи металла
+        +Написание оптимизации
+
+    - name: Оптимизация инкассаций
+      details: |
+        +Разбор предметной области
+        +Реализация модели, предсказывающей спрос на наличность
+        +Реализация оптимизационной модели
+        +Защита результатов пилота
+
+
 
 skills:
-  display: true
-  title: Skills
-  details: |
-    Here is my skills:
-    + First
-    + Second
-
-    ...
-
-  levels:
-    - name: Skill A
-      level: 90
-    - name: Skill B
-      level: 80
-    - name: Skill C
-      level: 70
+    display: true
+    title: Skills
+    details: |
+      + Data Science: Python, Machine Learning, Deep Learning, Mathematics, Statistics, Scikit-learn, Prophet, Numpy, Pandas, PyTorch, LGBM, VW, hyperopt
+      + NLP: Spacy, NLTK, hugging face
+      + Data Visualisation: MatPlotLib, Plotly, Seaborn, StreamLit
+      + Operation Research: Pyomo, Cbc, gurobi, OR
+      + Development: Docker, Alogitms and DataStructures, Multiprocessing, pytest, Linux, Git, gitlab CI-CD, k8s
+      + DB: SQL, Vertica, Data Grip, Dbeaver
+      + Programming languages: Python, SAS, C++(basic), R(basic)
 
 education:
   display: true
   title: Education
   items:
-    - university: Example University
-      time: 2015 - 2018
-      major: Machine Learning
-      degree: Master
-      details: |
-        Experience in this university:
-        + First
-        + Second
-
-        ...
-
-    - university: Example University
-      time: 2011 - 2015
-      major: Computer Science
-      degree: Bachelor
-      details: |
-        Experience in this university:
-        + First
-        + Second
-
-        ...
+        - university: <a href="https://data.mail.ru">MADE - Big Data Academy // Mail.ru (distance learning)</a> 
+          time: 2019 - 2021
+          major: Data Scientist
+          
+        - university: <a href="https://www.hse.ru/en/ma/fintech/">  НИУ ВШЭ // Sberbank</a>  
+          time: 2017 - 2019
+          major: Финанансовые технологии и анализ данных
+          degree: Магистратура
+        
+        - university: <a href="https://www.hse.ru/en/ba/ami/"> НИУ ВШЭ</a> 
+          time: 2013 - 2017
+          major: Прикладная математика и информатика
+          degree: Бакалавриат     
 
 certificates:
-  display: true
+  display: false
   title: Certificates
   items:
     - name: Course Foo
@@ -143,36 +161,24 @@ publications:
   display: true
   title: Publications
   intro: |
-    This is all the books I wrote.
 
   items:
-    - title: Foo in Action
-      authors: Foo Bar
-      conference: Foobar, 2019
-      link: https://www.google.com
-    - title: The Art of Bar
-      authors: Foo Bar
-      conference: Foobar, 2019
-      link:
+    - title: Дезагрегирование в таблицах “затраты–выпуск” при неполноте информации // Изд. дом Высшей школы экономики, 2015, Серия WP2 «Коли- чественный анализ в экономике»
+      link: https://www.hse.ru/org/hse/wp/wp2
+
+    - title: «Эмпирическое сравнение математических методов построения динамических рядов системы таблиц “затраты - выпуск” » // Экономический журнал ВШЭ. 2016. No4. С.711-730
+      link: https://cyberleninka.ru/article/n/empiricheskoe-sravnenie-matematicheskih-metodov- postroeniya-dinamicheskih-ryadov-sistemy-tablits-zatraty-vypusk
+
 
 patents:
-  display: true
+  display: false
   title: Patents
   details: |
     This is all my patents.
     + 2020\. A patent name is here. CN123456, filed May 15, 2020, and issued July 20, 2020.
 
-languages:
-  display: true
-  title: Languages
-  items:
-    - idiom: Chinese
-      level: Native
-    - idiom: English
-      level: Professional
-
 interests:
-  display: true
+  display: false
   title: Interests
   items:
     - item: Reading
@@ -189,6 +195,15 @@ evaluation:
     + Second
 
     ...
+
+Additionally:
+    display: true
+    title: Additionally
+    intro: |
+      + Декабрь, 2020: <a href="https://github.com/SerSmith/hackathon_hyper_ad_tech">Цифровой прорыв</a>, Финалист 
+      + Август, 2020: <a href="https://github.com/SerSmith/vk-hakathon-2021">vk хакатон</a>, Финалист
+      + Июнь, 2020:  <a href="https://github.com/SerSmith/Promo_hack_2021">Хакатон Promo Hack</a>, Победитель в номинации "Лучшая демонстрация продукта"
+      + Февраль, 2020: <a href="https://github.com/SerSmith/ramax">Хакатон Ramaximization</a> Победитель
 
 footer:
   display: true
