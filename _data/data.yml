@@ -143,7 +143,7 @@ Additionally:
       + Декабрь, 2020: <a href="https://github.com/SerSmith/hackathon_hyper_ad_tech">Цифровой прорыв</a>, Финалист 
       + Август, 2020: <a href="https://github.com/SerSmith/vk-hakathon-2021">vk хакатон</a>, Финалист
       + Июнь, 2020:  <a href="https://github.com/SerSmith/Promo_hack_2021">Хакатон Promo Hack</a>, Победитель в номинации "Лучшая демонстрация продукта"
-      + Февраль, 2020: <a href="https://github.com/SerSmith/ramax">Хакатон Ramaximization</a> Победитель
+      + Февраль, 2020: <a href="https://github.com/SerSmith/ramax">Хакатон Ramaximization</a>, Победитель
 
 certificates:
   display: false
@@ -166,11 +166,9 @@ publications:
   title: Публикации
   intro: |
   items:
-    - title: Дезагрегирование в таблицах “затраты–выпуск” при неполноте информации // Изд. дом Высшей школы экономики, 2015, Серия WP2 «Коли- чественный анализ в экономике»
-      link: https://www.hse.ru/org/hse/wp/wp2
+    - title: <a href="https://www.hse.ru/org/hse/wp/wp2">Дезагрегирование в таблицах “затраты–выпуск” при неполноте информации </a>// Изд. дом Высшей школы экономики, 2015, Серия WP2 «Коли- чественный анализ в экономике»
 
-    - title: «Эмпирическое сравнение математических методов построения динамических рядов системы таблиц “затраты - выпуск” » // Экономический журнал ВШЭ. 2016. No4. С.711-730
-      link: https://cyberleninka.ru/article/n/empiricheskoe-sravnenie-matematicheskih-metodov-postroeniya-dinamicheskih-ryadov-sistemy-tablits-zatraty-vypusk
+    - title: <a href="https://cyberleninka.ru/article/n/empiricheskoe-sravnenie-matematicheskih-metodov-postroeniya-dinamicheskih-ryadov-sistemy-tablits-zatraty-vypusk">«Эмпирическое сравнение математических методов построения динамических рядов системы таблиц “затраты - выпуск”»</a> // Экономический журнал ВШЭ. 2016. No4. С.711-730
 
 
 patents:
