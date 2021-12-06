@@ -1,0 +1,32 @@
+{% assign Additionally = site.data.data.Additionally %}
+{% if Additionally and Additionally.display %}
+<section class="section Additionally-section">
+
+  <div class="section-title">
+    {{ Additionally.title }}
+  </div>
+
+  {% if Additionally.intro %}
+  <div class="intro">
+      <p>{{ Additionally.intro | markdownify }}</p>
+  </div>
+  {% endif %}
+
+  {% for add in Additionally.items %}
+    <div class="item">
+
+      <p class="add-title">
+        <a href="{{ add.link }}">{{ add.name }}</a>
+      </p>
+  
+      {% if add.details %}
+      <div class="details">
+        {{ add.details | markdownify }}
+      </div>
+      {% endif %}
+
+    </div>
+  {% endfor %}
+
+</section>
+{% endif %}
