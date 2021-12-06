@@ -72,7 +72,7 @@ experiences:
 
 
 projects:
-  display: false
+  display: true
   title: Рабочие проекты
   intro: |
     Интересные для упоминания задачи.
@@ -115,7 +115,7 @@ skills:
 
 education:
   display: true
-  title: Education
+  title: Образование
   items:
         - university: <a href="https://data.mail.ru">MADE - Big Data Academy // Mail.ru (distance learning)</a> 
           time: 2019 - 2021
@@ -130,6 +130,15 @@ education:
           time: 2013 - 2017
           major: Прикладная математика и информатика
           degree: Бакалавриат     
+
+Additionally:
+    display: true
+    title: Дополнительно
+    intro: |
+      + Декабрь, 2020: <a href="https://github.com/SerSmith/hackathon_hyper_ad_tech">Цифровой прорыв</a>, Финалист 
+      + Август, 2020: <a href="https://github.com/SerSmith/vk-hakathon-2021">vk хакатон</a>, Финалист
+      + Июнь, 2020:  <a href="https://github.com/SerSmith/Promo_hack_2021">Хакатон Promo Hack</a>, Победитель в номинации "Лучшая демонстрация продукта"
+      + Февраль, 2020: <a href="https://github.com/SerSmith/ramax">Хакатон Ramaximization</a> Победитель
 
 certificates:
   display: false
@@ -149,7 +158,7 @@ certificates:
 
 publications:
   display: false
-  title: Publications
+  title: Публикации
   intro: |
 
   items:
@@ -186,14 +195,6 @@ evaluation:
 
     ...
 
-Additionally:
-    display: true
-    title: Additionally
-    intro: |
-      + Декабрь, 2020: <a href="https://github.com/SerSmith/hackathon_hyper_ad_tech">Цифровой прорыв</a>, Финалист 
-      + Август, 2020: <a href="https://github.com/SerSmith/vk-hakathon-2021">vk хакатон</a>, Финалист
-      + Июнь, 2020:  <a href="https://github.com/SerSmith/Promo_hack_2021">Хакатон Promo Hack</a>, Победитель в номинации "Лучшая демонстрация продукта"
-      + Февраль, 2020: <a href="https://github.com/SerSmith/ramax">Хакатон Ramaximization</a> Победитель
 
 footer:
   display: true
