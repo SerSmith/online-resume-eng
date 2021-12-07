@@ -49,21 +49,21 @@ experiences:
   items:
     - role: Data Scientist
       time: 2019.12 - present
-      company: Sibur Digital
+      company: <a href="https://www.sibur.digital/publicationsSibur">Sibur Digital</a>
       tag:
       details: |
        Участие в проектах по повышению эффективности производства. Помощь продакт оунеру в развитии продукта. Реализация прототипов на python. Менторинг.
 
     - role: Consultant
       time: 2015.12 - 2019.12
-      company: SAS Institute LLC
+      company: <a href="https://www.sibur.digital/publicationsSibur">SAS Institute LLC</a>
       tag:
       details: |
         Участие в пресейл пилотах и проектах отдела углубленной аналитики с уклоном в оптмиизацию и прогнозирование временных рядов. Менторинг стажеров.
 
     - role: Лаборант
       time: 2016.02 - 2016.12
-      company: НИУ ВШЭ 
+      company: <a href="https://www.hse.ru/en/ba/ami/">НИУ ВШЭ</a> 
       tag:
       details: |
         Разработка методов прогнозирования таблиц "затраты-выпуск" в рамках научно-учебной лаборатории «Исследование проблем информации и экономического роста»
