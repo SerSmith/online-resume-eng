@@ -82,7 +82,7 @@ projects:
        + Collecting business requirements
        + Communication with the customer
        + Reporting design
-       + Writing Optimization
+       + Writing optimization
        + Financial and economic feasibility study
        + Mentoring trainees
 
@@ -90,15 +90,14 @@ projects:
       details: |
         + Parsing the subject area
         + Participation in the writing of TK
-        + Implementation and implementation of a method for forecasting metal production*
+        + Implementation of a method for forecasting metal production*
         + Writing Optimization
 
     - name: Optimization of cash collection
       details: |
         + Parsing the subject area
         + Implementing a Cash Demand Prediction Model
-        + Optimization model implementation
-        + Protecting pilot results
+        + optimization model implementation
         + Mentoring trainees
 
 
