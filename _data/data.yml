@@ -1,5 +1,5 @@
 basic:
-  name: Сергей Кузнецов
+  name: Sergey Kuznetsov
   title: Senior Data Scientist
   avatar:
     display: False
@@ -26,7 +26,7 @@ contact:
 
 languages:
     display: true
-    title: Языки
+    title: Languages
     items:
         - idiom: Russian
           level: Native
@@ -45,66 +45,63 @@ profile:
 
 experiences:
   display: true
-  title: Опыт
+  title: Experience
   items:
     - role: Data Scientist
       time: 2019.12 - present
       company: <a href="https://www.sibur.digital/publicationsSibur">Sibur Digital</a>
       tag:
       details: |
-       Участие в проектах по повышению эффективности производства. Помощь продакт оунеру в развитии продукта. Реализация прототипов на python. Менторинг.
+       Improving production efficiency. Helping the product owner in the development of the product. Implementation of prototypes in python. Mentoring.
 
     - role: Consultant
       time: 2015.12 - 2019.12
       company: <a href="https://www.sas.com/ru_ru/home.html">SAS Institute LLC</a>
       tag:
       details: |
-        Участие в пресейл пилотах и проектах отдела углубленной аналитики с уклоном в оптмиизацию и прогнозирование временных рядов. Менторинг стажеров.
-
-    - role: Лаборант
-      time: 2016.02 - 2016.12
-      company: <a href="https://www.hse.ru/en/">НИУ ВШЭ</a> 
-      tag:
-      details: |
-        Разработка методов прогнозирования таблиц "затраты-выпуск" в рамках научно-учебной лаборатории «Исследование проблем информации и экономического роста»
+        Participation in presale pilots and projects of the in-depth analytics department with a focus on optimization and forecasting of time series. Mentoring.
 
 projects:
   display: true
-  title: Рабочие проекты
+  title: Progect examples
   intro: |
-    Интересные для упоминания задачи.
+   Interesting projects to mention.
+
+
 
   items:
-    - name: Лидогенерация(<a href="https://habr.com/ru/company/sibur_official/blog/571550/">пост на хабре</a>)
+    - name: Lead generation(<a href="https://habr.com/ru/company/sibur_official/blog/571550/">post</a>)
       details: |
-        + Написание прототипа на python
-        + Разработка алгоритмов мэтчинга названий компаний и поиска ключевых фраз
-        + Генерация идей по развитию продукта
-        + Менторинг джуниор DS
+       + Writing a prototype in python
+       + Development of algorithms for matching company names and searching for key phrases
+       + Generation of ideas for product development
+       + Mentoring Junior DS
 
-    - name: Автоматическое построение расписания
+    - name: Automatic scheduling
       details: |
-        + Сбор бизнес требований
-        + Коммуникация с заказчиком
-        + Проектирование отчетности
-        + Написание оптимизации
-        + Финансого-экономическое обоснование
-        + Менторинг стажеров
+       + Collecting business requirements
+       + Communication with the customer
+       + Reporting design
+       + Writing Optimization
+       + Financial and economic feasibility study
+       + Mentoring trainees
 
-    - name: Цифровой двойник предприятия
+    - name: Digital twin
       details: |
-        + Разбор предметной области
-        + Участие в написании ТЗ
-        + Реализация и внедрение метода прогнозирования добычи металла
-        + Написание оптимизации
+        + Parsing the subject area
+        + Participation in the writing of TK
+        + Implementation and implementation of a method for forecasting metal production*
+        + Writing Optimization
 
-    - name: Оптимизация инкассаций
+    - name: Optimization of cash collection
       details: |
-        + Разбор предметной области
-        + Реализация модели, предсказывающей спрос на наличность
-        + Реализация оптимизационной модели
-        + Защита результатов пилота
-        + Менторинг стажеров
+        + Parsing the subject area
+        + Implementing a Cash Demand Prediction Model
+        + Optimization model implementation
+        + Protecting pilot results
+        + Mentoring trainees
+
+
 
 skills:
     display: true
@@ -120,30 +117,30 @@ skills:
 
 education:
   display: true
-  title: Образование
+  title: Education
   items:
         - university: <a href="https://data.mail.ru">MADE - Big Data Academy // Mail.ru (distance learning)</a> 
           time: 2019 - 2020
           major: Data Scientist
           
-        - university: <a href="https://www.hse.ru/en/ma/fintech/">  НИУ ВШЭ // Sberbank</a>  
+        - university: <a href="https://www.hse.ru/en/ma/fintech/"> Higher School of Economics // Sberbank</a>  
           time: 2017 - 2019
-          major: Финанансовые технологии и анализ данных
-          degree: Магистратура
+          major: Financial Technologies and Data Analysis // Machine Learning
+          degree: Master's Degree
         
-        - university: <a href="https://www.hse.ru/en/ba/ami/"> НИУ ВШЭ</a> 
+        - university: <a href="https://www.hse.ru/en/ba/ami/"> Higher School of Economics</a> 
           time: 2013 - 2017
-          major: Прикладная математика и информатика
-          degree: Бакалавриат     
+          major: Applied Mathematics and Informatics // Machine Learning
+          degree: Bachelor's Degree  
 
 Additionally:
     display: true
-    title: Дополнительно
+    title: Additionally
     intro: |
-      + Декабрь, 2020: <a href="https://github.com/SerSmith/hackathon_hyper_ad_tech">Цифровой прорыв</a>, Финалист 
-      + Август, 2020: <a href="https://github.com/SerSmith/vk-hakathon-2021">vk хакатон</a>, Финалист
-      + Июнь, 2020:  <a href="https://github.com/SerSmith/Promo_hack_2021">Хакатон Promo Hack</a>, Победитель в номинации "Лучшая демонстрация продукта"
-      + Февраль, 2020: <a href="https://github.com/SerSmith/ramax">Хакатон Ramaximization</a>, Победитель
+      + Декабрь, 2020: <a href="https://github.com/SerSmith/hackathon_hyper_ad_tech">Цифровой прорыв</a>, Finalist
+      + Август, 2020: <a href="https://github.com/SerSmith/vk-hakathon-2021">vk cup</a>, Finalist
+      + Июнь, 2020:  <a href="https://github.com/SerSmith/Promo_hack_2021">Promo Hack</a>, Winner in nomination "Best product demonstration"
+      + Февраль, 2020: <a href="https://github.com/SerSmith/ramax">Ramaximization</a>, Winner
 
 certificates:
   display: false
@@ -163,7 +160,7 @@ certificates:
 
 publications:
   display: true
-  title: Публикации
+  title: Publications
   intro: |
     + <a href="https://www.hse.ru/org/hse/wp/wp2">Дезагрегирование в таблицах “затраты–выпуск” при неполноте информации </a>// Изд. дом Высшей школы экономики, 2015, Серия WP2 «Количественный анализ в экономике»
 
