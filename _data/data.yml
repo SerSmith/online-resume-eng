@@ -47,6 +47,14 @@ experiences:
   display: true
   title: Experience
   items:
+
+    - role: Team Lead Machine Learning
+      time: 2022.04 - present
+      company: <a href=""https://www.ozon.ru/">OZON</a>
+      tag:
+      details: |
+       Leading a team of 4-6 people developing recommendation services.
+
     - role: Data Scientist
       time: 2019.12 - present
       company: <a href="https://www.sibur.digital/publicationsSibur">Sibur Digital</a>
@@ -70,6 +78,14 @@ projects:
 
 
   items:
+
+    - name: OZON
+      details: |
+       + Managing a team of 4-6 people
+       + Design and development of a recommender system for short videos from scratch
+       + Implementation of two-stage architecture
+       + Writing microservices in python
+
     - name: Lead generation(<a href="https://habr.com/ru/company/sibur_official/blog/571550/">post</a>)
       details: |
        + Writing a prototype in python
