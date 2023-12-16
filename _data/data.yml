@@ -1,6 +1,6 @@
 basic:
   name: Sergey Kuznetsov
-  title: Senior Data Scientist
+  title: Machine Learning engenier Team Lead/Senior 
   avatar:
     display: False
     path: profile.png
@@ -48,12 +48,12 @@ experiences:
   title: Experience
   items:
 
-    - role: Team Lead Machine Learning
+    - role: Team Lead Machine Learning Engenier
       time: 2022.04 - present
       company: <a href=""https://www.ozon.ru/">OZON</a>
       tag:
       details: |
-       Leading a team of 4-6 people developing recommendation services.
+       Leading a team of 3-8 MLE. Developing and Improving recommender systems.
 
     - role: Data Scientist
       time: 2019.12 - present
@@ -79,9 +79,16 @@ projects:
 
   items:
 
-    - name: OZON
+    - name: OZON Ecom
       details: |
-       + Managing a team of 4-6 people
+       + Managing a team of 3-8 people
+       + Improving recommender system of ecom
+       + Writing high load microservices in golang
+       + Improving quality of personnalisation with neural network approuches
+
+    - name: OZON  Moments
+      details: |
+       + Managing a team of 3-8 people
        + Design and development of a recommender system for short videos from scratch
        + Implementation of two-stage architecture
        + Writing microservices in python
@@ -122,13 +129,14 @@ skills:
     display: true
     title: Skills
     details: |
-      + Data Science: Python, Machine Learning, Deep Learning, Mathematics, Statistics, Scikit-learn, Prophet, Numpy, Pandas, PyTorch, LGBM, VW, hyperopt
+      + Data Science: Python, Machine Learning, Deep Learning, Mathematics, Statistics, Scikit-learn, Prophet, Numpy, Pandas, PyTorch, LGBM, hyperopt
+      + Big data Stack: Pyspark, Air FLow, ML Flow
       + NLP: Spacy, NLTK, hugging face
       + Data Visualisation: MatPlotLib, Plotly, Seaborn, StreamLit
       + Operation Research: Pyomo, Cbc, gurobi, OR
       + Development: Docker, Pytest, Linux, Git, gitlab CI-CD, Jira, Confluence 
       + DB: SQL, Vertica, Data Grip, Dbeaver
-      + Programming languages: Python, SAS, C++(basic), R(basic)
+      + Programming languages: Python, Golang, SAS
 
 education:
   display: true
