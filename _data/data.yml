@@ -1,6 +1,6 @@
 basic:
   name: Sergey Kuznetsov
-  title: Machine Learning engenier Team Lead/Senior 
+  title: Machine Learning Engineer Team Lead/Senior 
   avatar:
     display: False
     path: profile.png
@@ -48,7 +48,7 @@ experiences:
   title: Experience
   items:
 
-    - role: Team Lead Machine Learning Engenier
+    - role: Team Lead Machine Learning Engineer
       time: 2022.04 - present
       company: <a href=""https://www.ozon.ru/">OZON</a>
       tag:
@@ -56,7 +56,7 @@ experiences:
        Leading a team of 3-8 MLE. Developing recommender systems.
 
     - role: Data Scientist
-      time: 2019.12 - present
+      time: 2019.12 - 2022.03
       company: <a href="https://www.sibur.digital/publicationsSibur">Sibur Digital</a>
       tag:
       details: |
@@ -82,15 +82,15 @@ projects:
     - name: OZON Ecom
       details: |
        + Managing a team of 3-8 people
-       + Improving quality of recommender system of ecom with neural network approuches
-       + Writing high load microservices in golang(>10K RPS)
+       + Improving the quality of the recommender system of eCom with neural network algorithms
+       + Writing high-load microservices in Golang (>10K RPS)
 
 
     - name: OZON  Moments
       details: |
        + Managing a team of 3-8 people
        + Design and development of a recommender system for short videos from scratch
-       + Implementation of two-stage architecture
+       + Implementation of a two-stage architecture
        + Writing microservices in python
 
     - name: Lead generation(<a href="https://habr.com/ru/company/sibur_official/blog/571550/">post</a>)
@@ -132,7 +132,7 @@ skills:
       + Data Science: Python, Machine Learning, Deep Learning, Mathematics, Statistics, Scikit-learn, Prophet, Numpy, Pandas, PyTorch, LGBM, hyperopt
       + Big data Stack: Pyspark, Air FLow, ML Flow
       + NLP: Spacy, NLTK, hugging face
-      + Data Visualisation: MatPlotLib, Plotly, Seaborn, StreamLit
+      + Data Visualization: MatPlotLib, Plotly, Seaborn, StreamLit
       + Operation Research: Pyomo, Cbc, gurobi, OR
       + Development: Docker, Pytest, Linux, Git, gitlab CI-CD, Jira, Confluence 
       + DB: SQL, Vertica, Data Grip, Dbeaver
