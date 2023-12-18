@@ -160,10 +160,10 @@ Additionally:
     display: true
     title: Additionally
     intro: |
-      + Декабрь, 2020: <a href="https://github.com/SerSmith/hackathon_hyper_ad_tech">Цифровой прорыв</a>, Finalist
-      + Август, 2020: <a href="https://github.com/SerSmith/vk-hakathon-2021">vk cup</a>, Finalist
-      + Июнь, 2020:  <a href="https://github.com/SerSmith/Promo_hack_2021">Promo Hack</a>, Winner in nomination "Best product demonstration"
-      + Февраль, 2020: <a href="https://github.com/SerSmith/ramax">Ramaximization</a>, Winner
+      + December, 2020: <a href="https://github.com/SerSmith/hackathon_hyper_ad_tech">Цифровой прорыв</a>, Finalist
+      + August, 2020: <a href="https://github.com/SerSmith/vk-hakathon-2021">vk cup</a>, Finalist
+      + June, 2020:  <a href="https://github.com/SerSmith/Promo_hack_2021">Promo Hack</a>, Winner in nomination "Best product demonstration"
+      + February, 2020: <a href="https://github.com/SerSmith/ramax">Ramaximization</a>, Winner
 
 certificates:
   display: false
