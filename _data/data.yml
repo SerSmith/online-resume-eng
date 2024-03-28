@@ -53,7 +53,7 @@ experiences:
       company: <a href=""https://www.ozon.ru/">OZON</a>
       tag:
       details: |
-       Leading a team of 3-8 MLE. Developing recommender systems.
+       Leading a team MLE. Developing recommender systems.
 
     - role: Data Scientist
       time: 2019.12 - 2022.03
@@ -81,14 +81,14 @@ projects:
 
     - name: OZON Ecom
       details: |
-       + Managing a team of 3-8 people
+       + Managing a team
        + Improving the quality of the recommender system of eCom with neural network algorithms
        + Writing high-load microservices in Golang (>10K RPS)
 
 
     - name: OZON  Moments
       details: |
-       + Managing a team of 3-8 people
+       + Managing a team
        + Design and development of a recommender system for short videos from scratch
        + Implementation of a two-stage architecture
        + Writing microservices in python
