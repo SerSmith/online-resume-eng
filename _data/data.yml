@@ -88,7 +88,7 @@ projects:
 
     - name: RecSys&Search Platform
       details: |
-       + Managing a department of ~ 50 people.
+       + Managing a cross-functional team of ~50 people.
        + Designing a platform consisting of an AB module, an offline recommendation engine, a runtime recommendation engine, and a search engine.
        + Ensuring reliability (>99.5% PBI) and low latency of the recommendation engine.
        + 10+ consumer companies of personalized recommendations and search. More than 1M requests per month.
